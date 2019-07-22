@@ -1,0 +1,6 @@
+------WebKitFormBoundaryA2NPmsxfZ7HkibAV
+Content-Disposition: form-data; name="name"; filename="filemodetest.txt"
+Content-Type: text/plain
+
+working 
+------WebKitFormBoundaryA2NPmsxfZ7HkibAV--
