@@ -1,6 +1,1 @@
-------WebKitFormBoundarygtgHuZxVs4SGk0Rc
-Content-Disposition: form-data; name="name"; filename="test.txt"
-Content-Type: text/plain
-
-test file for dnd and git ...awefawefawef
-------WebKitFormBoundarygtgHuZxVs4SGk0Rc--
+this is for file test xxxxx99999... 
